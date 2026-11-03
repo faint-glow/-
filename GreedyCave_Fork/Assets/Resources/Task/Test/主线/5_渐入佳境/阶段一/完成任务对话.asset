@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e7f2c47d8987440b8627fd5e613c82, type: 3}
+  m_Name: "\u5B8C\u6210\u4EFB\u52A1\u5BF9\u8BDD"
+  m_EditorClassIdentifier: 
+  speakInfos:
+  - speakName: "\u5411\u5BFC"
+    content: "\u5FEB\u4E50\u7684\u65F6\u5149\u771F\u662F\u77ED\u6682\uFF0C\u8FD9\u6BB5\u5BF9\u8BDD\u7ED3\u675F\u540E\uFF0C\u6211\u4EEC\u5C31\u518D\u4E0D\u4F1A\u76F8\u89C1\u4E86\u5427..."
+  - speakName: "\u5411\u5BFC"
+    content: "\u771F\u662F\u53EF\u60DC\u4E86...\u5982\u679C\u80FD\u591F\u770B\u5230\u672A\u6765\uFF0C\u4F60\u4E00\u5B9A\u4F1A\u662F\u6700\u5F3A\u5927\u7684\u6218\u58EB"
+  - speakName: "\u5411\u5BFC"
+    content: "\u50CF\u4ED6\u4EEC\u4E00\u6837..."
+  - speakName: "\u5411\u5BFC"
+    content: "\u7EC8\u7A76\u8FD8\u662F\u5230\u6B64\u4E3A\u6B62\u4E86...\u73B0\u5728..."
+  - speakName: "\u5411\u5BFC"
+    content: "\u518D\u89C1"
+  choices:
+  - isInitial: 1
+    isSpread: 1
+    allControlsHeight: 0
+    serializedPropertyHeightInfos:
+    - serializedPropertyName: choiceName
+      y: 0
+    - serializedPropertyName: choiceType
+      y: 0
+    choiceName: "\u518D\u89C1"
+    choiceType: 5
+    talk: {fileID: 0}

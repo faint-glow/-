@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0822092905f3bd14c9f62725d99b3cab, type: 3}
+  m_Name: "1_\u5B9E\u529B\u8BC1\u660E\u4E00"
+  m_EditorClassIdentifier: 
+  taskName: "\u5B9E\u529B\u8BC1\u660E\u4E00"
+  isMainThread: 0
+  nextTaskName: "\u95EE\u5019\u94C1\u5320"
+  openConditions:
+    fixedConditions:
+    - condition:
+        isInitial: 1
+        isSpread: 1
+        allControlsHeight: 0
+        serializedPropertyHeightInfos:
+        - serializedPropertyName: conditionType
+          y: 0
+        - serializedPropertyName: condition_Task
+          y: 0
+        - serializedPropertyName: isOverrideTip
+          y: 0
+        conditionType: 1
+        isOverrideTip: 0
+        conditionTip:
+          content: 
+        condition_Level:
+          level: 0
+          bigOrSmallType: 0
+        condition_Task:
+          taskName: "\u542F\u7A0B"
+        condition_Beat:
+          targetName: 
+          count: 0
+        condition_Talk:
+          talkInfo_Before:
+            NPC_Name: 
+            sceneName: 
+            targetPos: {x: 0, y: 0, z: 0}
+            talkInfo: {fileID: 0}
+          talkInfo_After:
+            NPC_Name: 
+            sceneName: 
+            targetPos: {x: 0, y: 0, z: 0}
+            talkInfo: {fileID: 0}
+        condition_Collection:
+          isInitial: 0
+          isSpread: 0
+          allControlsHeight: 0
+          serializedPropertyHeightInfos: []
+          collectionType: 0
+          itemQuality: 0
+          itemCategory: 0
+          equipType: 0
+          itemName: 
+          count: 0
+    - condition:
+        isInitial: 1
+        isSpread: 1
+        allControlsHeight: 0
+        serializedPropertyHeightInfos:
+        - serializedPropertyName: conditionType
+          y: 0
+        - serializedPropertyName: condition_Level
+          y: 0
+        - serializedPropertyName: isOverrideTip
+          y: 0
+        conditionType: 0
+        isOverrideTip: 0
+        conditionTip:
+          content: 
+        condition_Level:
+          level: 5
+          bigOrSmallType: 3
+        condition_Task:
+          taskName: "\u542F\u7A0B"
+        condition_Beat:
+          targetName: 
+          count: 0
+        condition_Talk:
+          talkInfo_Before:
+            NPC_Name: 
+            sceneName: 
+            targetPos: {x: 0, y: 0, z: 0}
+            talkInfo: {fileID: 0}
+          talkInfo_After:
+            NPC_Name: 
+            sceneName: 
+            targetPos: {x: 0, y: 0, z: 0}
+            talkInfo: {fileID: 0}
+        condition_Collection:
+          isInitial: 0
+          isSpread: 0
+          allControlsHeight: 0
+          serializedPropertyHeightInfos: []
+          collectionType: 0
+          itemQuality: 0
+          itemCategory: 0
+          equipType: 0
+          itemName: 
+          count: 0
+    replaceableConditions: []
+  taskSteps:
+  - {fileID: 11400000, guid: 5c1ae23c6b8e5bb40b2a1a3edd765bd9, type: 2}
+  - {fileID: 11400000, guid: 53258dc0719b75245930320a87b4241e, type: 2}

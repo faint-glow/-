@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62f5185df69acf4385094e424b987d7, type: 3}
+  m_Name: 7_kulou
+  m_EditorClassIdentifier: 
+  obj: {fileID: 4068480932520159103, guid: 0a37524d9b7ca7e44a68bb20586ac818, type: 3}
+  avataImage: {fileID: 21300000, guid: 0fb569890d801084b95bb7c1c415f692, type: 3}
+  enemyName: "\u9AB7\u9AC5"
+  normalAttackTriggerTime: 0.25
+  NormalAttackInfo: {fileID: 0}
+  minSkillAttackCount: 2
+  maxSkillAttackCount: 7
+  skillInfoAndAnimInfo: []
+  propertyFactors:
+  - propertyType: 0
+    baseValue: 135
+    growValue: 12.5
+  - propertyType: 1
+    baseValue: 25
+    growValue: 10
+  - propertyType: 15
+    baseValue: 100
+    growValue: 100
+  - propertyType: 2
+    baseValue: 7
+    growValue: 3.7
+  - propertyType: 3
+    baseValue: 7
+    growValue: 3.7
+  - propertyType: 4
+    baseValue: 2.6
+    growValue: 2.7
+  - propertyType: 5
+    baseValue: 2.6
+    growValue: 2.7
+  - propertyType: 18
+    baseValue: 1
+    growValue: 0
+  - propertyType: 21
+    baseValue: 0.24
+    growValue: 0
+  - propertyType: 22
+    baseValue: 0.24
+    growValue: 0
+  booty:
+    bootyRatio: 1
+    reward_Property:
+    - rewardType: 19
+      baseValue: 14
+      fluctuationRatio: 0.1
+    - rewardType: 16
+      baseValue: 14
+      fluctuationRatio: 0.1
+    itemList:
+    - itemInfo: {fileID: 11400000, guid: ce4859a55368fd646a60b83ac6d85a62, type: 2}
+      fallRatio: 0.4
+    - itemInfo: {fileID: 11400000, guid: 21abc0f10534ab74697073fd530e396a, type: 2}
+      fallRatio: 0.1

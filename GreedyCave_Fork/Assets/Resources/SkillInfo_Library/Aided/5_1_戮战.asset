@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 744ba51e15997ad478744af51803fd3c, type: 3}
+  m_Name: "5_1_\u622E\u6218"
+  m_EditorClassIdentifier: 
+  skillExist: 0
+  skillTriggerType: 0
+  skillType: 2
+  skillName: "\u622E\u6218"
+  skillCD: 0
+  learnPoint: 1
+  skillSprite: {fileID: 21300000, guid: d415ee312e347c148924858e034e4ba7, type: 3}
+  skillInfoText: 
+  lockTargetInfoMgr:
+    lockTargetInfos: []
+  costValue: []
+  talentBuffInfo:
+  - {fileID: 11400000, guid: 8b4285967d0ae784ebdbc07823795bb1, type: 2}
+  skillEffectMgrs: []
+  fxMgr:
+    fxInfos: []

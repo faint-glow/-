@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc137ffc54f6f4446b07884efd08693d, type: 3}
+  m_Name: "1_\u9636\u6BB5\u4E00"
+  m_EditorClassIdentifier: 
+  startTaskState: 1
+  receiveTalkInfo:
+    NPC_Name: 
+    sceneName: 
+    targetPos: {x: 0, y: 0, z: 0}
+    talkInfo: {fileID: 0}
+  finishTalkInfo:
+    NPC_Name: "\u5411\u5BFC"
+    sceneName: 
+    targetPos: {x: 0, y: 0, z: 0}
+    talkInfo: {fileID: 11400000, guid: 0456af75a629d8144a2236674422aa43, type: 2}
+  finishConditions:
+    fixedConditions: []
+    replaceableConditions: []
+  booty:
+    bootyRatio: 1
+    reward_Property:
+    - rewardType: 19
+      baseValue: 20
+      fluctuationRatio: 0
+    - rewardType: 16
+      baseValue: 20
+      fluctuationRatio: 0
+    itemList:
+    - itemInfo: {fileID: 11400000, guid: 680dc4ee9d3c68244b063e99c47816ed, type: 2}
+      fallRatio: 1

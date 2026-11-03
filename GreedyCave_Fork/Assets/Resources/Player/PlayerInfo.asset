@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28121590288beee45821f586e28acfc7, type: 3}
+  m_Name: PlayerInfo
+  m_EditorClassIdentifier: 
+  normalAttackTriggerTime: 0.39
+  propertyFactors:
+  - propertyType: 0
+    baseValue: 100
+    growValue: 10
+  - propertyType: 1
+    baseValue: 50
+    growValue: 2.5
+  - propertyType: 15
+    baseValue: 100
+    growValue: 100
+  - propertyType: 2
+    baseValue: 10
+    growValue: 2
+  - propertyType: 3
+    baseValue: 10
+    growValue: 2
+  - propertyType: 4
+    baseValue: 1
+    growValue: 1
+  - propertyType: 5
+    baseValue: 1
+    growValue: 1
+  - propertyType: 18
+    baseValue: 1
+    growValue: 0
+  - propertyType: 19
+    baseValue: 0
+    growValue: 0
+  - propertyType: 21
+    baseValue: 0.15
+    growValue: 0
+  - propertyType: 22
+    baseValue: 0.15
+    growValue: 0
+  - propertyType: 23
+    baseValue: 0.1
+    growValue: 0
+  - propertyType: 25
+    baseValue: 1.5
+    growValue: 0
+  - propertyType: 26
+    baseValue: 1
+    growValue: 0
+  - propertyType: 28
+    baseValue: 100
+    growValue: 0

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62f5185df69acf4385094e424b987d7, type: 3}
+  m_Name: 3_dijingzhanshi
+  m_EditorClassIdentifier: 
+  obj: {fileID: 4767656622357697560, guid: 5c486802de98aff4e9c45e43eb777a9d, type: 3}
+  avataImage: {fileID: 21300000, guid: cc7ce551e00e5ef4886eb9828ebf66d3, type: 3}
+  enemyName: "\u5730\u7CBE\u6218\u58EB"
+  normalAttackTriggerTime: 0.1
+  NormalAttackInfo: {fileID: 0}
+  minSkillAttackCount: 2
+  maxSkillAttackCount: 7
+  skillInfoAndAnimInfo: []
+  propertyFactors:
+  - propertyType: 0
+    baseValue: 80
+    growValue: 12
+  - propertyType: 1
+    baseValue: 25
+    growValue: 10
+  - propertyType: 15
+    baseValue: 100
+    growValue: 100
+  - propertyType: 2
+    baseValue: 4.5
+    growValue: 3.5
+  - propertyType: 3
+    baseValue: 4.5
+    growValue: 3.5
+  - propertyType: 4
+    baseValue: 2.3
+    growValue: 2.5
+  - propertyType: 5
+    baseValue: 2.3
+    growValue: 2.5
+  - propertyType: 18
+    baseValue: 1
+    growValue: 0
+  - propertyType: 21
+    baseValue: 0.23
+    growValue: 0
+  - propertyType: 22
+    baseValue: 0.23
+    growValue: 0
+  booty:
+    bootyRatio: 1
+    reward_Property:
+    - rewardType: 19
+      baseValue: 11
+      fluctuationRatio: 0.1
+    - rewardType: 16
+      baseValue: 11
+      fluctuationRatio: 0.1
+    itemList:
+    - itemInfo: {fileID: 11400000, guid: 8b6bf72eb7762ac4296d3ef6d6035cb9, type: 2}
+      fallRatio: 0.4
+    - itemInfo: {fileID: 11400000, guid: 21abc0f10534ab74697073fd530e396a, type: 2}
+      fallRatio: 0.05

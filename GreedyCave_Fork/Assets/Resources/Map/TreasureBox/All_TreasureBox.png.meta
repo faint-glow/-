@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: ec4e59c0edc8d6140a459aa5c98f6ff7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8815599443954958495
+    second: set_item_0
+  - first:
+      213: 4479783756648093151
+    second: set_item_1
+  - first:
+      213: -7607862137174847192
+    second: set_item_2
+  - first:
+      213: -7810211169436475728
+    second: set_item_3
+  - first:
+      213: -3291685626677306331
+    second: set_item_4
+  - first:
+      213: 7476747703826373007
+    second: set_item_5
+  - first:
+      213: 1245951398490836802
+    second: set_item_6
+  - first:
+      213: -1729429554640366235
+    second: set_item_7
+  - first:
+      213: 4306521197149723211
+    second: set_item_8
+  - first:
+      213: -3229170906664422085
+    second: set_item_9
+  - first:
+      213: 2796978209107588019
+    second: set_item_10
+  - first:
+      213: 4666780864560455251
+    second: set_item_11
+  - first:
+      213: -3349147649329901513
+    second: set_item_12
+  - first:
+      213: -7122817105759052659
+    second: set_item_13
+  - first:
+      213: -2360223739888561443
+    second: set_item_14
+  - first:
+      213: 3663111651125470196
+    second: set_item_15
+  - first:
+      213: 6357198140001616963
+    second: set_item_16
+  - first:
+      213: -7976192046420200361
+    second: set_item_17
+  - first:
+      213: -4763458082541869149
+    second: set_item_18
+  - first:
+      213: -4485545666290023873
+    second: set_item_19
+  - first:
+      213: 1396281109283436607
+    second: set_item_20
+  - first:
+      213: -7240479286166914468
+    second: set_item_21
+  - first:
+      213: 5364156056240521068
+    second: set_item_22
+  - first:
+      213: 4003698322759368625
+    second: set_item_23
+  - first:
+      213: 7491367182982794264
+    second: set_item_24
+  - first:
+      213: 8924533748873260678
+    second: set_item_25
+  - first:
+      213: -8240797282888005264
+    second: set_item_26
+  - first:
+      213: -8893136282761754687
+    second: set_item_27
+  - first:
+      213: 6475259297598319687
+    second: set_item_28
+  - first:
+      213: 4720266147899805893
+    second: set_item_29
+  - first:
+      213: -3655089475701806566
+    second: set_item_30
+  - first:
+      213: 7446835792029736970
+    second: set_item_31
+  - first:
+      213: -621276483710067627
+    second: set_item_32
+  - first:
+      213: 3510697852506300722
+    second: set_item_33
+  - first:
+      213: 3194273776001513240
+    second: set_item_34
+  - first:
+      213: -6741604571727182556
+    second: set_item_35
+  - first:
+      213: -7301735519242802557
+    second: set_item_36
+  - first:
+      213: 5416102222131266463
+    second: set_item_37
+  - first:
+      213: -2993201820053911657
+    second: set_item_38
+  - first:
+      213: -8691885465963746315
+    second: set_item_39
+  - first:
+      213: 3234439812603689413
+    second: set_item_40
+  - first:
+      213: -4861263362280931707
+    second: set_item_41
+  - first:
+      213: 2659042496267312484
+    second: set_item_42
+  - first:
+      213: 4711442386672420065
+    second: set_item_43
+  - first:
+      213: -6512989858752304985
+    second: set_item_44
+  - first:
+      213: 5088352031800141899
+    second: set_item_45
+  - first:
+      213: -4326016314509836837
+    second: set_item_46
+  - first:
+      213: -2318457934586547906
+    second: set_item_47
+  - first:
+      213: 1334119103678423148
+    second: set_item_48
+  - first:
+      213: 2061886269689692136
+    second: set_item_49
+  - first:
+      213: 5740481963871131590
+    second: set_item_50
+  - first:
+      213: 5231577579928724991
+    second: set_item_51
+  - first:
+      213: -735172571525904706
+    second: set_item_52
+  - first:
+      213: -7046847435143788026
+    second: set_item_53
+  - first:
+      213: 2883261154765037875
+    second: set_item_54
+  - first:
+      213: 2643068888947348293
+    second: set_item_55
+  - first:
+      213: 6949901404847179282
+    second: set_item_56
+  - first:
+      213: -8256544862086015870
+    second: set_item_57
+  - first:
+      213: -739030365751778095
+    second: set_item_58
+  - first:
+      213: 2559362929474725312
+    second: set_item_59
+  - first:
+      213: 4195162496277276819
+    second: set_item_60
+  - first:
+      213: 7314486882505443762
+    second: set_item_61
+  - first:
+      213: 1953591164790036839
+    second: set_item_62
+  - first:
+      213: 2662096040216614298
+    second: set_item_63
+  - first:
+      213: 6872296626985650213
+    second: set_item_64
+  - first:
+      213: -327741580507867595
+    second: set_item_65
+  - first:
+      213: 4295969519114577200
+    second: set_item_66
+  - first:
+      213: -5644677665723311370
+    second: set_item_67
+  - first:
+      213: -7283362320192997173
+    second: set_item_68
+  - first:
+      213: -8373874734032915651
+    second: set_item_69
+  - first:
+      213: 5680906235277179127
+    second: set_item_70
+  - first:
+      213: 1992461918340096033
+    second: set_item_71
+  - first:
+      213: -5573077342355963683
+    second: set_item_72
+  - first:
+      213: 3147029372299600650
+    second: set_item_73
+  - first:
+      213: 6866843346752602622
+    second: set_item_74
+  - first:
+      213: 1482835937284080288
+    second: treasureBox_0
+  - first:
+      213: 1376079714354919581
+    second: treasureBox_1
+  - first:
+      213: -2805742686061120439
+    second: treasureBox_2
+  - first:
+      213: -4423976537463060458
+    second: treasureBox_3
+  - first:
+      213: -6306762656893205370
+    second: treasureBox_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: treasureBox_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 350
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a24006bd67149410800000000000000
+      internalID: 1482835937284080288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasureBox_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 346
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98febc9531d81310800000000000000
+      internalID: 1376079714354919581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasureBox_2
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 346
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9443d2a74efff09d0800000000000000
+      internalID: -2805742686061120439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasureBox_3
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 274
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6180ad547c0ea92c0800000000000000
+      internalID: -4423976537463060458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasureBox_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 493
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6848e2937c0e978a0800000000000000
+      internalID: -6306762656893205370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

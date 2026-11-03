@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 28c37cf474ec6394a86b0d05fef31d9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6523108390221963718
+    second: effect_shengji_2
+  - first:
+      213: 1649511510042023185
+    second: effect_shengji_3
+  - first:
+      213: -5834722573478557836
+    second: effect_shengji_4
+  - first:
+      213: -7224336283982342109
+    second: effect_shengji_5
+  - first:
+      213: -8837531794917698271
+    second: effect_shengji_6
+  - first:
+      213: -8014134174055611228
+    second: effect_shengji_7
+  - first:
+      213: 2583833131297495949
+    second: effect_shengji_8
+  - first:
+      213: -7622352940085588152
+    second: effect_shengji_9
+  - first:
+      213: 1467096750662562661
+    second: effect_shengji_12
+  - first:
+      213: -5900698579091371751
+    second: effect_shengji_13
+  - first:
+      213: -2009264316155689170
+    second: effect_shengji_18
+  - first:
+      213: -6761672689252973814
+    second: effect_shengji_10
+  - first:
+      213: -2522471151996449713
+    second: effect_shengji_11
+  - first:
+      213: 40646498313185047
+    second: effect_shengji_14
+  - first:
+      213: 773325152065500882
+    second: effect_shengji_15
+  - first:
+      213: 9067203781070990269
+    second: effect_shengji_16
+  - first:
+      213: -940064916853608549
+    second: effect_shengji_17
+  - first:
+      213: -6102782009537523140
+    second: effect_shengji_19
+  - first:
+      213: 5552961003929986718
+    second: effect_shengji_20
+  - first:
+      213: -2141478651004009051
+    second: effect_shengji_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_shengji_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 584
+        width: 214
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1ec8e158cb68a50800000000000000
+      internalID: 6523108390221963718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 577
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11519f89afd34e610800000000000000
+      internalID: 1649511510042023185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 529
+        width: 86
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4778bdcabb6e60fa0800000000000000
+      internalID: -5834722573478557836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 217
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32854470d600ebb90800000000000000
+      internalID: -7224336283982342109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 392
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d5b0e7a7ca5580800000000000000
+      internalID: -8837531794917698271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 304
+        width: 73
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4c81ded6318c090800000000000000
+      internalID: -8014134174055611228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 416
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b5fdd0b8e9bd320800000000000000
+      internalID: 2583833131297495949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 282
+        width: 190
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f4b8dc266f73690800000000000000
+      internalID: -7622352940085588152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 8
+        width: 219
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5633f52c8bc2c5410800000000000000
+      internalID: 1467096750662562661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_13
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 8
+        width: 95
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9194b92d7e18c1ea0800000000000000
+      internalID: -5900698579091371751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_18
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 8
+        width: 37
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e270cafffb8ad14e0800000000000000
+      internalID: -2009264316155689170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_10
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 119
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03cd959386b922a0800000000000000
+      internalID: -6761672689252973814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 106
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cc4151ad16efcd0800000000000000
+      internalID: -2522471151996449713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_14
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 101
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717225d56c7609000800000000000000
+      internalID: 40646498313185047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 16
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d63db8e0276bba00800000000000000
+      internalID: 773325152065500882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 46
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbba0dc7ccd25dd70800000000000000
+      internalID: 9067203781070990269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 62
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f222550f734f2f0800000000000000
+      internalID: -940064916853608549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 154
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c321fd3a8109e4ba0800000000000000
+      internalID: -6102782009537523140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 237
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96e7dabc94101d40800000000000000
+      internalID: 5552961003929986718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shengji_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 209
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5c2d05380f742e0800000000000000
+      internalID: -2141478651004009051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

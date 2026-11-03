@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e7f2c47d8987440b8627fd5e613c82, type: 3}
+  m_Name: "\u5B8C\u6210\u4EFB\u52A1\u5BF9\u8BDD"
+  m_EditorClassIdentifier: 
+  speakInfos:
+  - speakName: "\u6742\u8D27\u5546"
+    content: "\u4F60\u5C31\u662F\u5411\u5BFC\u5E26\u7684\u65B0\u4EBA\u5417\uFF1F\u4ED6\u770B\u4EBA\u7684\u773C\u5149\u4E00\u5411\u5F88\u51C6"
+  - speakName: Player
+    content: "\u989D...\u5927\u6982\u5427"
+  - speakName: "\u6742\u8D27\u5546"
+    content: "\u90A3\u4ECA\u540E\u4E5F\u62DC\u6258\u4F60\u7167\u987E\u6211\u7684\u751F\u610F\u4E86\uFF0C\u8FD9\u6B21\u5C31\u9001\u4F60\u4E2A\u5C0F\u7BB1\u5B50\u5427"
+  choices:
+  - isInitial: 1
+    isSpread: 1
+    allControlsHeight: 0
+    serializedPropertyHeightInfos:
+    - serializedPropertyName: choiceName
+      y: 0
+    - serializedPropertyName: choiceType
+      y: 0
+    choiceName: "\u597D\u7684"
+    choiceType: 5
+    talk: {fileID: 0}

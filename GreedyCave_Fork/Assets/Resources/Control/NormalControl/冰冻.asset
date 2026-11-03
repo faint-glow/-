@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0f889d5e0bdcf4f9bf9e758ef5e81d, type: 3}
+  m_Name: "\u51B0\u51BB"
+  m_EditorClassIdentifier: 
+  controlName: "\u51B0\u51BB"
+  isNeverEnd: 0
+  controlTime: 2
+  controlLevel: 1
+  effectFXMgr:
+    fxInfos:
+    - isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: delayTime
+        y: 0
+      - serializedPropertyName: followType
+        y: 0
+      - serializedPropertyName: originalRotate
+        y: 0
+      - serializedPropertyName: fireType
+        y: 0
+      - serializedPropertyName: startPosType
+        y: 0
+      - serializedPropertyName: startTransform
+        y: 0
+      - serializedPropertyName: fxObj
+        y: 0
+      - serializedPropertyName: isNeverDie
+        y: 0
+      - serializedPropertyName: existTime
+        y: 0
+      delayTime: 0
+      isAutioOffsetDir: 0
+      isAutioFlipDir: 1
+      autoFlipX: 0
+      autoFlipY: 0
+      followType: 1
+      fireType: 0
+      originalRotate: 0
+      startPosType: 1
+      targetPosType: 0
+      startTransform:
+        isInitial: 1
+        isSpread: 1
+        allControlsHeight: 0
+        serializedPropertyHeightInfos:
+        - serializedPropertyName: offset
+          y: 0
+        - serializedPropertyName: rotation
+          y: 0
+        - serializedPropertyName: scale
+          y: 0
+        offset: {x: 0, y: 0.2, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 1, y: 1, z: 1}
+      targetOffset: {x: 0, y: 0, z: 0}
+      fxObj: {fileID: 819798271640270791, guid: fc769fbfcef4b4e4baadec3084513317, type: 3}
+      isNeverDie: 0
+      existTime: 2
+  stateName: Idle
+  speed: 0

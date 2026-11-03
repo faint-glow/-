@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a50c6806361606d4fb705f65ba6fec1b, type: 3}
+  m_Name: "\u9B54\u6CD5\u707C\u70E7"
+  m_EditorClassIdentifier: 
+  buffName: "\u9B54\u6CD5\u707C\u70E7"
+  liveTime: 4
+  existType: 0
+  buffCategoryList: 02000000
+  overlayType: 1
+  effects:
+  - isInitial: 1
+    isSpread: 0
+    allControlsHeight: 0
+    serializedPropertyHeightInfos: []
+    effectInfo:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: isUse
+        y: 0
+      - serializedPropertyName: isOverride
+        y: 0
+      - serializedPropertyName: textInfo
+        y: 0
+      isUse: 1
+      isOverride: 0
+      textInfo:
+        content: "\u6BCF\u95F4\u96941\u79D2\u76EE\u6807\u51CF\u5C11(\u81EA\u8EAB\u7684\u5F53\u524D\u9B54\u529B30%)\u7684\u751F\u547D\u503C\u3002"
+      overrideTextInfo:
+        content: 
+    effectCondition:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: effectTarget
+        y: 0
+      effectTarget: 0
+      plusOrMinus: 0
+      conditionType_Buff: 0
+      targetPropertyTypes: 
+      sizeType: 0
+      targetValue: 0
+      value:
+        isInitial: 0
+        isSpread: 0
+        allControlsHeight: 0
+        serializedPropertyHeightInfos: []
+        valueType: 0
+        plusOrMinus: 0
+        baseValue: 0
+        value_Property:
+          valueSourceInfos: []
+        value_Damage:
+          damageType: 0
+          ratio: 0
+        value_Injured:
+          damageType: 0
+          ratio: 0
+    triggerTypes: 01000000
+    intervalTime: 1
+    triggerRatio: 1
+    applyTargetType: 1
+    effectType: 0
+    targetProperty: 6
+    value:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: valueType
+        y: 0
+      - serializedPropertyName: plusOrMinus
+        y: 0
+      - serializedPropertyName: baseValue
+        y: 0
+      - serializedPropertyName: value_Property
+        y: 0
+      valueType: 0
+      plusOrMinus: 1
+      baseValue: 0
+      value_Property:
+        valueSourceInfos:
+        - isInitial: 1
+          isSpread: 1
+          allControlsHeight: 0
+          serializedPropertyHeightInfos:
+          - serializedPropertyName: ratioType
+            y: 0
+          - serializedPropertyName: sourceValueType
+            y: 0
+          - serializedPropertyName: ratioSource
+            y: 0
+          - serializedPropertyName: ratio
+            y: 0
+          ratioType: 0
+          sourceValueType: 2
+          ratioSource: 3
+          ratio: -0.3
+      value_Damage:
+        damageType: 0
+        ratio: 0
+      value_Injured:
+        damageType: 0
+        ratio: 0
+    controlInfos: []
+    buffInfos: []
+    fxMgr:
+      fxInfos: []
+    audioMgr:
+      audioClips: []
+  fxInfoList: []
+  fxMgr:
+    fxInfos:
+    - isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: delayTime
+        y: 0
+      - serializedPropertyName: followType
+        y: 0
+      - serializedPropertyName: originalRotate
+        y: 0
+      - serializedPropertyName: fireType
+        y: 0
+      - serializedPropertyName: startPosType
+        y: 0
+      - serializedPropertyName: startTransform
+        y: 0
+      - serializedPropertyName: fxObj
+        y: 0
+      - serializedPropertyName: isNeverDie
+        y: 0
+      delayTime: 0
+      isAutioOffsetDir: 1
+      isAutioFlipDir: 1
+      autoFlipX: 0
+      autoFlipY: 0
+      followType: 1
+      fireType: 0
+      originalRotate: 0
+      startPosType: 1
+      targetPosType: 0
+      startTransform:
+        isInitial: 1
+        isSpread: 1
+        allControlsHeight: 0
+        serializedPropertyHeightInfos:
+        - serializedPropertyName: offset
+          y: 0
+        - serializedPropertyName: rotation
+          y: 0
+        - serializedPropertyName: scale
+          y: 0
+        offset: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 1, y: 1, z: 1}
+      targetOffset: {x: 0, y: 0, z: 0}
+      fxObj: {fileID: 2641690945282933016, guid: df764e36a64f94e449ec6509d1f21899, type: 3}
+      isNeverDie: 1
+      existTime: 5

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc137ffc54f6f4446b07884efd08693d, type: 3}
+  m_Name: "4_\u9636\u6BB5\u4E8C"
+  m_EditorClassIdentifier: 
+  startTaskState: 1
+  receiveTalkInfo:
+    NPC_Name: "\u94C1\u5320"
+    sceneName: 
+    targetPos: {x: 0, y: 0, z: 0}
+    talkInfo: {fileID: 0}
+  finishTalkInfo:
+    NPC_Name: "\u94C1\u5320"
+    sceneName: 
+    targetPos: {x: 0, y: 0, z: 0}
+    talkInfo: {fileID: 11400000, guid: cebd86919b01b4a45a751d7e52d650d0, type: 2}
+  finishConditions:
+    fixedConditions:
+    - condition:
+        isInitial: 1
+        isSpread: 1
+        allControlsHeight: 0
+        serializedPropertyHeightInfos:
+        - serializedPropertyName: conditionType
+          y: 0
+        - serializedPropertyName: condition_Collection
+          y: 0
+        - serializedPropertyName: isOverrideTip
+          y: 0
+        conditionType: 4
+        isOverrideTip: 0
+        conditionTip:
+          content: 
+        condition_Level:
+          level: 0
+          bigOrSmallType: 0
+        condition_Task:
+          taskName: 
+        condition_Beat:
+          targetName: "\u53F2\u83B1\u59C6"
+          count: 2
+        condition_Talk:
+          talkInfo_Before:
+            NPC_Name: 
+            sceneName: 
+            targetPos: {x: 0, y: 0, z: 0}
+            talkInfo: {fileID: 0}
+          talkInfo_After:
+            NPC_Name: 
+            sceneName: 
+            targetPos: {x: 0, y: 0, z: 0}
+            talkInfo: {fileID: 0}
+        condition_Collection:
+          isInitial: 1
+          isSpread: 1
+          allControlsHeight: 0
+          serializedPropertyHeightInfos:
+          - serializedPropertyName: collectionType
+            y: 0
+          - serializedPropertyName: itemQuality
+            y: 0
+          - serializedPropertyName: itemName
+            y: 0
+          - serializedPropertyName: count
+            y: 0
+          collectionType: 0
+          itemQuality: 0
+          itemCategory: 0
+          equipType: 0
+          itemName: "\u8759\u8760\u5229\u722A"
+          count: 3
+    replaceableConditions: []
+  booty:
+    bootyRatio: 1
+    reward_Property:
+    - rewardType: 19
+      baseValue: 200
+      fluctuationRatio: 0
+    - rewardType: 16
+      baseValue: 200
+      fluctuationRatio: 0
+    itemList: []

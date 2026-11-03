@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9298aec992801540883f94075e60160, type: 3}
+  m_Name: Skill_Physics_1
+  m_EditorClassIdentifier: 
+  animationEventInfos:
+  - isInitial: 1
+    isSpread: 1
+    allControlsHeight: 0
+    serializedPropertyHeightInfos:
+    - serializedPropertyName: clipName
+      y: 0
+    - serializedPropertyName: haveEvent
+      y: 0
+    - serializedPropertyName: skilltriggerTime
+      y: 0
+    - serializedPropertyName: eventTriggerEnum
+      y: 0
+    - serializedPropertyName: triggerTypes
+      y: 0
+    clipName: Skill_Physics_1
+    haveEvent: 1
+    skilltriggerTime: 0.23
+    eventTriggerEnum: 0
+    triggerType: 0
+    triggerTypes: 15000000
+  - isInitial: 1
+    isSpread: 1
+    allControlsHeight: 0
+    serializedPropertyHeightInfos:
+    - serializedPropertyName: clipName
+      y: 0
+    - serializedPropertyName: haveEvent
+      y: 0
+    - serializedPropertyName: skilltriggerTime
+      y: 0
+    - serializedPropertyName: eventTriggerEnum
+      y: 0
+    - serializedPropertyName: triggerTypes
+      y: 0
+    clipName: Skill_Physics_1
+    haveEvent: 1
+    skilltriggerTime: 0.36
+    eventTriggerEnum: 0
+    triggerType: 0
+    triggerTypes: 04000000
+  animationTriggerInfos:
+  - isInitial: 1
+    isSpread: 1
+    allControlsHeight: 0
+    serializedPropertyHeightInfos:
+    - serializedPropertyName: animationTriggerType
+      y: 0
+    - serializedPropertyName: delayTime
+      y: 0
+    - serializedPropertyName: animationParameterInfos
+      y: 0
+    animationTriggerType: 2
+    clipName: 
+    delayTime: 0
+    animationParameterInfos:
+    - isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: animationParameterType
+        y: 0
+      - serializedPropertyName: parametersName
+        y: 0
+      animationParameterType: 0
+      parametersName: Skill_Physics_1
+      parameterBool: 0
+      parameterFloat: 0

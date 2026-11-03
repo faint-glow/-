@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: 78b45bcd5f595184991f059a69a798e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3535305363418556874
+    second: effect_ui_dengludonghua_0
+  - first:
+      213: 2782986538550654644
+    second: effect_ui_dengludonghua_1
+  - first:
+      213: -179375223992983536
+    second: effect_ui_dengludonghua_2
+  - first:
+      213: -5897539159045636528
+    second: effect_ui_dengludonghua_3
+  - first:
+      213: -6814511394079567949
+    second: effect_ui_dengludonghua_4
+  - first:
+      213: -1838974413879147931
+    second: effect_ui_dengludonghua_5
+  - first:
+      213: 1933183984721305966
+    second: effect_ui_dengludonghua_6
+  - first:
+      213: 4249855212271294385
+    second: effect_ui_dengludonghua_7
+  - first:
+      213: 141135911603257636
+    second: effect_ui_dengludonghua_8
+  - first:
+      213: -277298943219729717
+    second: effect_ui_dengludonghua_9
+  - first:
+      213: -1074395090725364004
+    second: effect_ui_dengludonghua_10
+  - first:
+      213: 439495093983999395
+    second: effect_ui_dengludonghua_11
+  - first:
+      213: 894624656549380736
+    second: effect_ui_dengludonghua_12
+  - first:
+      213: -2925737762099259532
+    second: effect_ui_dengludonghua_13
+  - first:
+      213: -2632922235931542223
+    second: effect_ui_dengludonghua_14
+  - first:
+      213: -4628958917695256880
+    second: effect_ui_dengludonghua_15
+  - first:
+      213: -4230251154368193021
+    second: effect_ui_dengludonghua_16
+  - first:
+      213: 1018407277255595864
+    second: effect_ui_dengludonghua_17
+  - first:
+      213: 7351613554718386320
+    second: effect_ui_dengludonghua_18
+  - first:
+      213: -7192340370516698930
+    second: effect_ui_dengludonghua_19
+  - first:
+      213: -4196083874761396575
+    second: effect_ui_dengludonghua_20
+  - first:
+      213: 6130207116353078238
+    second: effect_ui_dengludonghua_21
+  - first:
+      213: -3932945513146402305
+    second: effect_ui_dengludonghua_22
+  - first:
+      213: -6034738690956772153
+    second: effect_ui_dengludonghua_23
+  - first:
+      213: 9153971444921843269
+    second: effect_ui_dengludonghua_24
+  - first:
+      213: 4460512863378436649
+    second: effect_ui_dengludonghua_25
+  - first:
+      213: -1764064500227476000
+    second: effect_ui_dengludonghua_26
+  - first:
+      213: -2995010306959352802
+    second: effect_ui_dengludonghua_27
+  - first:
+      213: 6782169590150144004
+    second: effect_ui_dengludonghua_28
+  - first:
+      213: 4105490345023621528
+    second: effect_ui_dengludonghua_29
+  - first:
+      213: 1231116385140349876
+    second: effect_ui_dengludonghua_30
+  - first:
+      213: 3536779894694799096
+    second: effect_ui_dengludonghua_31
+  - first:
+      213: -3710933153409856183
+    second: effect_ui_dengludonghua_32
+  - first:
+      213: -8680574605156207667
+    second: effect_ui_dengludonghua_33
+  - first:
+      213: -1491891460502048258
+    second: effect_ui_dengludonghua_34
+  - first:
+      213: 6335695442110465318
+    second: effect_ui_dengludonghua_35
+  - first:
+      213: 3324788826900650066
+    second: effect_ui_dengludonghua_36
+  - first:
+      213: -6915468121188967771
+    second: effect_ui_dengludonghua_37
+  - first:
+      213: -2189095034394135263
+    second: effect_ui_dengludonghua_38
+  - first:
+      213: -4028027348695672954
+    second: effect_ui_dengludonghua_39
+  - first:
+      213: -1575083322064712942
+    second: effect_ui_dengludonghua_40
+  - first:
+      213: -8740528475391598481
+    second: effect_ui_dengludonghua_41
+  - first:
+      213: 8011414955479412614
+    second: effect_ui_dengludonghua_42
+  - first:
+      213: 7805312708397492996
+    second: effect_ui_dengludonghua_43
+  - first:
+      213: 2342625125126778839
+    second: effect_ui_dengludonghua_44
+  - first:
+      213: 3414771827182479847
+    second: effect_ui_dengludonghua_45
+  - first:
+      213: -6966065866350891435
+    second: effect_ui_dengludonghua_46
+  - first:
+      213: -7205894859395749424
+    second: effect_ui_dengludonghua_47
+  - first:
+      213: -1892398239599703496
+    second: effect_ui_dengludonghua_48
+  - first:
+      213: 8117571499835532945
+    second: effect_ui_dengludonghua_49
+  - first:
+      213: -1733175591871054994
+    second: effect_ui_dengludonghua_50
+  - first:
+      213: 632017210279096289
+    second: effect_ui_dengludonghua_51
+  - first:
+      213: -4103513727874687915
+    second: effect_ui_dengludonghua_52
+  - first:
+      213: -3622927717278067810
+    second: effect_ui_dengludonghua_53
+  - first:
+      213: 8116455118090754382
+    second: effect_ui_dengludonghua_54
+  - first:
+      213: -1987161794986559971
+    second: effect_ui_dengludonghua_55
+  - first:
+      213: -2132824118923613724
+    second: effect_ui_dengludonghua_56
+  - first:
+      213: -364447556263089736
+    second: effect_ui_dengludonghua_57
+  - first:
+      213: 3889556180851040827
+    second: effect_ui_dengludonghua_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_0
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 508
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63657e8b08210fec0800000000000000
+      internalID: -3535305363418556874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 508
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6710d03872f9620800000000000000
+      internalID: 2782986538550654644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 508
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01064642f2bb28df0800000000000000
+      internalID: -179375223992983536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ef020a16bb72ea0800000000000000
+      internalID: -5897539159045636528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf090eedfdfd61a0800000000000000
+      internalID: -6814511394079567949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56283bd8386aa76e0800000000000000
+      internalID: -1838974413879147931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61a9c6779c04da10800000000000000
+      internalID: 1933183984721305966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d5428cc48afa30800000000000000
+      internalID: 4249855212271294385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_8
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c9242d5a65f100800000000000000
+      internalID: 141135911603257636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcafbc09416d62cf0800000000000000
+      internalID: -277298943219729717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde14ec7b5bf611f0800000000000000
+      internalID: -1074395090725364004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5717d9576691600800000000000000
+      internalID: 439495093983999395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0828eec92685a6c00800000000000000
+      internalID: 894624656549380736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 456
+        width: 125
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4779020b101b567d0800000000000000
+      internalID: -2925737762099259532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 436
+        width: 136
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13db21e1d2bf57bd0800000000000000
+      internalID: -2632922235931542223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_15
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 98
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6c5eeb362a2cfb0800000000000000
+      internalID: -4628958917695256880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 192
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e9239ecf02b45c0800000000000000
+      internalID: -4230251154368193021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_17
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 437
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8571e7dd50c122e00800000000000000
+      internalID: 1018407277255595864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_18
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 107
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098afe6d39d260660800000000000000
+      internalID: 7351613554718386320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_19
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 107
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec896a72a8caf2c90800000000000000
+      internalID: -7192340370516698930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 255
+        width: 157
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae2a1d92f384c5c0800000000000000
+      internalID: -4196083874761396575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 265
+        width: 148
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed30cc1a4eed21550800000000000000
+      internalID: 6130207116353078238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_22
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 429
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff931f7b4ee5b69c0800000000000000
+      internalID: -3932945513146402305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 374
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc373d422d404ca0800000000000000
+      internalID: -6034738690956772153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_24
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 379
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eb2a28780790f70800000000000000
+      internalID: 9153971444921843269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_25
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 421
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227bb101dce6ed30800000000000000
+      internalID: 4460512863378436649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 376
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57017fea8c487e0800000000000000
+      internalID: -1764064500227476000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_27
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 413
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cdd0b7ef59f66d0800000000000000
+      internalID: -2995010306959352802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_28
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 232
+        width: 88
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4002b5b0f4b1f1e50800000000000000
+      internalID: 6782169590150144004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_29
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 405
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899cdeb87b1a9f830800000000000000
+      internalID: 4105490345023621528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_30
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 397
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb147d54ddc51110800000000000000
+      internalID: 1231116385140349876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_33
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 255
+        width: 92
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc333656367688780800000000000000
+      internalID: -8680574605156207667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_35
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 234
+        width: 92
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6254e08cf69ece750800000000000000
+      internalID: 6335695442110465318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_38
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 234
+        width: 86
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125bd5f1aa5ce91e0800000000000000
+      internalID: -2189095034394135263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_39
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 292
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6879f6fb7729918c0800000000000000
+      internalID: -4028027348695672954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc0b0501e242ae0800000000000000
+      internalID: -1575083322064712942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_42
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 127
+        width: 92
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f2a99a4734e2f60800000000000000
+      internalID: 8011414955479412614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 232
+        width: 90
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9293472e4b36f20800000000000000
+      internalID: 3414771827182479847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_46
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 232
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e6e2a9000935f90800000000000000
+      internalID: -6966065866350891435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d927e8cdc48ffb90800000000000000
+      internalID: -7205894859395749424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_31
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 183
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6e608539a251130800000000000000
+      internalID: 3536779894694799096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_dengludonghua_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 189
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d09c555fd108cc0800000000000000
+      internalID: -3710933153409856183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,353 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a50c6806361606d4fb705f65ba6fec1b, type: 3}
+  m_Name: "\u9B54\u6CD5\u76FE"
+  m_EditorClassIdentifier: 
+  buffName: "\u9B54\u6CD5\u76FE"
+  liveTime: 7
+  existType: 0
+  buffCategoryList: 01000000
+  overlayType: 1
+  effects:
+  - isInitial: 1
+    isSpread: 0
+    allControlsHeight: 0
+    serializedPropertyHeightInfos: []
+    effectInfo:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: isUse
+        y: 0
+      - serializedPropertyName: isOverride
+        y: 0
+      - serializedPropertyName: textInfo
+        y: 0
+      isUse: 1
+      isOverride: 0
+      textInfo:
+        content: "\u53D7\u5230\u666E\u653B\u4F24\u5BB3\u524D\u6216\u53D7\u5230\u6280\u80FD\u4F24\u5BB3\u524D\u51CF\u5C11(\u53D7\u5230\u7269\u7406\u4F24\u5BB3\u768460%)\u7684\u7269\u7406\u4F24\u5BB3"
+      overrideTextInfo:
+        content: 
+    effectCondition:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: effectTarget
+        y: 0
+      effectTarget: 0
+      plusOrMinus: 0
+      conditionType_Buff: 0
+      targetPropertyTypes: 
+      sizeType: 0
+      targetValue: 0
+      value:
+        isInitial: 0
+        isSpread: 0
+        allControlsHeight: 0
+        serializedPropertyHeightInfos: []
+        valueType: 0
+        plusOrMinus: 0
+        baseValue: 0
+        value_Property:
+          valueSourceInfos: []
+        value_Damage:
+          damageType: 0
+          ratio: 0
+        value_Injured:
+          damageType: 0
+          ratio: 0
+    triggerTypes: 1600000017000000
+    intervalTime: 0
+    triggerRatio: 1
+    applyTargetType: 1
+    effectType: 6
+    targetProperty: 2
+    value:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: valueType
+        y: 0
+      - serializedPropertyName: plusOrMinus
+        y: 0
+      - serializedPropertyName: baseValue
+        y: 0
+      - serializedPropertyName: value_Injured
+        y: 0
+      valueType: 2
+      plusOrMinus: 1
+      baseValue: 0
+      value_Property:
+        valueSourceInfos: []
+      value_Damage:
+        damageType: 0
+        ratio: 0
+      value_Injured:
+        damageType: 2
+        ratio: -0.6
+    controlInfos: []
+    buffInfos: []
+    fxMgr:
+      fxInfos: []
+    audioMgr:
+      audioClips: []
+  - isInitial: 1
+    isSpread: 0
+    allControlsHeight: 0
+    serializedPropertyHeightInfos: []
+    effectInfo:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: isUse
+        y: 0
+      - serializedPropertyName: isOverride
+        y: 0
+      - serializedPropertyName: textInfo
+        y: 0
+      isUse: 1
+      isOverride: 0
+      textInfo:
+        content: "\u53D7\u5230\u6280\u80FD\u4F24\u5BB3\u524D\u6216\u53D7\u5230\u666E\u653B\u4F24\u5BB3\u540E\u51CF\u5C11(\u53D7\u5230\u9B54\u6CD5\u4F24\u5BB3\u768460%)\u7684\u9B54\u6CD5\u4F24\u5BB3"
+      overrideTextInfo:
+        content: 
+    effectCondition:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: effectTarget
+        y: 0
+      effectTarget: 0
+      plusOrMinus: 0
+      conditionType_Buff: 0
+      targetPropertyTypes: 
+      sizeType: 0
+      targetValue: 0
+      value:
+        isInitial: 0
+        isSpread: 0
+        allControlsHeight: 0
+        serializedPropertyHeightInfos: []
+        valueType: 0
+        plusOrMinus: 0
+        baseValue: 0
+        value_Property:
+          valueSourceInfos: []
+        value_Damage:
+          damageType: 0
+          ratio: 0
+        value_Injured:
+          damageType: 0
+          ratio: 0
+    triggerTypes: 1700000018000000
+    intervalTime: 0
+    triggerRatio: 1
+    applyTargetType: 1
+    effectType: 6
+    targetProperty: 3
+    value:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: valueType
+        y: 0
+      - serializedPropertyName: plusOrMinus
+        y: 0
+      - serializedPropertyName: baseValue
+        y: 0
+      - serializedPropertyName: value_Injured
+        y: 0
+      valueType: 2
+      plusOrMinus: 1
+      baseValue: 0
+      value_Property:
+        valueSourceInfos: []
+      value_Damage:
+        damageType: 0
+        ratio: 0
+      value_Injured:
+        damageType: 3
+        ratio: -0.6
+    controlInfos: []
+    buffInfos: []
+    fxMgr:
+      fxInfos: []
+    audioMgr:
+      audioClips: []
+  - isInitial: 1
+    isSpread: 0
+    allControlsHeight: 0
+    serializedPropertyHeightInfos: []
+    effectInfo:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: isUse
+        y: 0
+      - serializedPropertyName: isOverride
+        y: 0
+      - serializedPropertyName: textInfo
+        y: 0
+      isUse: 1
+      isOverride: 0
+      textInfo:
+        content: "\u53D7\u5230\u666E\u653B\u4F24\u5BB3\u540E\u6216\u53D7\u5230\u6280\u80FD\u4F24\u5BB3\u540E\u5F53Buff\u51CF\u5C11\u7684\u7269\u7406\u548C\u9B54\u6CD5\u4F24\u5BB3\u5927\u4E8E\u7B49\u4E8E(50+\u81EA\u8EAB\u7684\u57FA\u7840\u9B54\u529B100%)\u65F6\u6E05\u9664Buff"
+      overrideTextInfo:
+        content: 
+    effectCondition:
+      isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: effectTarget
+        y: 0
+      - serializedPropertyName: conditionType_Buff
+        y: 0
+      - serializedPropertyName: targetPropertyTypes
+        y: 0
+      - serializedPropertyName: sizeType
+        y: 0
+      - serializedPropertyName: value
+        y: 0
+      effectTarget: 1
+      plusOrMinus: 1
+      conditionType_Buff: 0
+      targetPropertyTypes: 0200000003000000
+      sizeType: 4
+      targetValue: -100
+      value:
+        isInitial: 1
+        isSpread: 1
+        allControlsHeight: 0
+        serializedPropertyHeightInfos:
+        - serializedPropertyName: valueType
+          y: 0
+        - serializedPropertyName: plusOrMinus
+          y: 0
+        - serializedPropertyName: baseValue
+          y: 0
+        - serializedPropertyName: value_Property
+          y: 0
+        valueType: 0
+        plusOrMinus: 1
+        baseValue: -50
+        value_Property:
+          valueSourceInfos:
+          - isInitial: 1
+            isSpread: 1
+            allControlsHeight: 0
+            serializedPropertyHeightInfos:
+            - serializedPropertyName: ratioType
+              y: 0
+            - serializedPropertyName: sourceValueType
+              y: 0
+            - serializedPropertyName: ratioSource
+              y: 0
+            - serializedPropertyName: ratio
+              y: 0
+            ratioType: 0
+            sourceValueType: 1
+            ratioSource: 3
+            ratio: -1
+        value_Damage:
+          damageType: 0
+          ratio: 0
+        value_Injured:
+          damageType: 0
+          ratio: 0
+    triggerTypes: 1800000019000000
+    intervalTime: 0
+    triggerRatio: 1
+    applyTargetType: 1
+    effectType: 7
+    targetProperty: 3
+    value:
+      isInitial: 1
+      isSpread: 0
+      allControlsHeight: 0
+      serializedPropertyHeightInfos: []
+      valueType: 0
+      plusOrMinus: 1
+      baseValue: 0
+      value_Property:
+        valueSourceInfos: []
+      value_Damage:
+        damageType: 0
+        ratio: 0
+      value_Injured:
+        damageType: 3
+        ratio: -0.5
+    controlInfos: []
+    buffInfos: []
+    fxMgr:
+      fxInfos: []
+    audioMgr:
+      audioClips: []
+  fxInfoList: []
+  fxMgr:
+    fxInfos:
+    - isInitial: 1
+      isSpread: 1
+      allControlsHeight: 0
+      serializedPropertyHeightInfos:
+      - serializedPropertyName: delayTime
+        y: 0
+      - serializedPropertyName: followType
+        y: 0
+      - serializedPropertyName: originalRotate
+        y: 0
+      - serializedPropertyName: fireType
+        y: 0
+      - serializedPropertyName: startPosType
+        y: 0
+      - serializedPropertyName: startTransform
+        y: 0
+      - serializedPropertyName: fxObj
+        y: 0
+      - serializedPropertyName: isNeverDie
+        y: 0
+      delayTime: 0
+      isAutioOffsetDir: 1
+      isAutioFlipDir: 0
+      autoFlipX: 0
+      autoFlipY: 0
+      followType: 1
+      fireType: 0
+      originalRotate: 0
+      startPosType: 0
+      targetPosType: 0
+      startTransform:
+        isInitial: 1
+        isSpread: 1
+        allControlsHeight: 0
+        serializedPropertyHeightInfos:
+        - serializedPropertyName: offset
+          y: 0
+        - serializedPropertyName: rotation
+          y: 0
+        - serializedPropertyName: scale
+          y: 0
+        offset: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 1, y: 1, z: 1}
+      targetOffset: {x: 0, y: 0, z: 0}
+      fxObj: {fileID: 6447405661201147569, guid: d0340941c33585e46ad5f7b4d539f897, type: 3}
+      isNeverDie: 1
+      existTime: 3

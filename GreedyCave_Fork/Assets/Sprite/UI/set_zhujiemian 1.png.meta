@@ -1,0 +1,1512 @@
+fileFormatVersion: 2
+guid: 14b32e47329160f4eac65b1a4432fce5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1003164098484792951
+    second: set_zhujiemian 1_0
+  - first:
+      213: -7451083990795267985
+    second: set_zhujiemian 1_1
+  - first:
+      213: -385045482024519779
+    second: set_zhujiemian 1_2
+  - first:
+      213: 1975719162221284554
+    second: set_zhujiemian 1_3
+  - first:
+      213: -7760429217203790803
+    second: set_zhujiemian 1_4
+  - first:
+      213: -8658690372039789379
+    second: set_zhujiemian 1_5
+  - first:
+      213: -5569855162971679645
+    second: set_zhujiemian 1_6
+  - first:
+      213: 1010238224315499046
+    second: set_zhujiemian 1_7
+  - first:
+      213: 755207930625370762
+    second: set_zhujiemian 1_8
+  - first:
+      213: -5562281058946536005
+    second: set_zhujiemian 1_9
+  - first:
+      213: -5020424565197477343
+    second: set_zhujiemian 1_10
+  - first:
+      213: -9123261013516148587
+    second: set_zhujiemian 1_11
+  - first:
+      213: -930206328591968053
+    second: set_zhujiemian 1_12
+  - first:
+      213: -3755770285265760768
+    second: set_zhujiemian 1_13
+  - first:
+      213: 4409176784644821454
+    second: set_zhujiemian 1_14
+  - first:
+      213: 657078010631770049
+    second: set_zhujiemian 1_15
+  - first:
+      213: 1114324389762625528
+    second: set_zhujiemian 1_16
+  - first:
+      213: 2122205319566983313
+    second: set_zhujiemian 1_17
+  - first:
+      213: -425402721362226242
+    second: set_zhujiemian 1_18
+  - first:
+      213: -9126488121588557042
+    second: set_zhujiemian 1_19
+  - first:
+      213: -7924551083783505979
+    second: set_zhujiemian 1_20
+  - first:
+      213: 3767972406809630266
+    second: set_zhujiemian 1_21
+  - first:
+      213: 1702142290029822773
+    second: set_zhujiemian 1_22
+  - first:
+      213: -6002394166584076137
+    second: set_zhujiemian 1_23
+  - first:
+      213: -8610493478709098916
+    second: set_zhujiemian 1_24
+  - first:
+      213: -9156835476473944406
+    second: set_zhujiemian 1_25
+  - first:
+      213: -8977400277872920894
+    second: set_zhujiemian 1_26
+  - first:
+      213: -3740371315207732111
+    second: set_zhujiemian 1_27
+  - first:
+      213: -1833535453351805612
+    second: set_zhujiemian 1_28
+  - first:
+      213: -4850202110210678378
+    second: set_zhujiemian 1_29
+  - first:
+      213: -2872738120561666675
+    second: set_zhujiemian 1_30
+  - first:
+      213: -4604076215320162025
+    second: set_zhujiemian 1_31
+  - first:
+      213: 32681260258302787
+    second: set_zhujiemian 1_32
+  - first:
+      213: -1620669057959913568
+    second: set_zhujiemian 1_33
+  - first:
+      213: -1123140934520040360
+    second: set_zhujiemian 1_34
+  - first:
+      213: 7544917570403678036
+    second: set_zhujiemian 1_35
+  - first:
+      213: 1799561137860972471
+    second: set_zhujiemian 1_36
+  - first:
+      213: -5079887387310077880
+    second: set_zhujiemian 1_37
+  - first:
+      213: 1449424197318460130
+    second: set_zhujiemian 1_38
+  - first:
+      213: -1720845748278636058
+    second: set_zhujiemian 1_39
+  - first:
+      213: -1608374562980494916
+    second: set_zhujiemian 1_40
+  - first:
+      213: 7198481354796969104
+    second: set_zhujiemian 1_41
+  - first:
+      213: -4543741922405391786
+    second: set_zhujiemian 1_42
+  - first:
+      213: 6728493887187693094
+    second: set_zhujiemian 1_43
+  - first:
+      213: -1699686368667725355
+    second: set_zhujiemian 1_44
+  - first:
+      213: 7161279072014583716
+    second: set_zhujiemian 1_45
+  - first:
+      213: 599636889469102959
+    second: set_zhujiemian 1_46
+  - first:
+      213: 2390697535722414614
+    second: set_zhujiemian 1_47
+  - first:
+      213: -5830770124428091518
+    second: set_zhujiemian 1_48
+  - first:
+      213: -848186016017560443
+    second: set_zhujiemian 1_49
+  - first:
+      213: -198464009519820985
+    second: set_zhujiemian 1_50
+  - first:
+      213: 2597936829976766619
+    second: set_zhujiemian 1_51
+  - first:
+      213: -3660772792957377428
+    second: set_zhujiemian 1_52
+  - first:
+      213: -1230453554066904559
+    second: set_zhujiemian 1_53
+  - first:
+      213: -3386995112944642858
+    second: set_zhujiemian 1_54
+  - first:
+      213: 3195981344165189083
+    second: set_zhujiemian 1_55
+  - first:
+      213: -95931467945738812
+    second: set_zhujiemian 1_56
+  - first:
+      213: -80994289195377239
+    second: set_zhujiemian 1_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set_zhujiemian 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 1006
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9819362419b0412f0800000000000000
+      internalID: -1003164098484792951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 224
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f605c01869e689890800000000000000
+      internalID: -7451083990795267985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 260
+        width: 171
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d973f859c2b08aaf0800000000000000
+      internalID: -385045482024519779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 351
+        width: 506
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accc1283c1a2b6b10800000000000000
+      internalID: 1975719162221284554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_4
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 271
+        width: 155
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c51045eba6d4490800000000000000
+      internalID: -7760429217203790803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_5
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 350
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4397a7bf626d780800000000000000
+      internalID: -8658690372039789379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_6
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 396
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36492b85d36e3b2b0800000000000000
+      internalID: -5569855162971679645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 303
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622c8d20056150e00800000000000000
+      internalID: 1010238224315499046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_8
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 273
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aab749c990b7a00800000000000000
+      internalID: 755207930625370762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 332
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdab9cd8decec2b0800000000000000
+      internalID: -5562281058946536005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 301
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a62c1157ed35ab0800000000000000
+      internalID: -5020424565197477343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_11
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 231
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902330027aa36180800000000000000
+      internalID: -9123261013516148587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_12
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 277
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc89478c54e3713f0800000000000000
+      internalID: -930206328591968053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 167
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e44c013d2d0ebc0800000000000000
+      internalID: -3755770285265760768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 93
+        width: 235
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec157a0ccea803d30800000000000000
+      internalID: 4409176784644821454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_15
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 157
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf4d6528f86e1900800000000000000
+      internalID: 657078010631770049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_16
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 159
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffea58e020e67f00800000000000000
+      internalID: 1114324389762625528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_17
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 197
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1900c358e76937d10800000000000000
+      internalID: 2122205319566983313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 139
+        width: 63
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb358b29a7aa81af0800000000000000
+      internalID: -425402721362226242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_19
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 200
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b54e95863385180800000000000000
+      internalID: -9126488121588557042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b5ae76c6560290800000000000000
+      internalID: -7924551083783505979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_21
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 97
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a369c5fb0f68a4430800000000000000
+      internalID: 3767972406809630266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_22
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 135
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533c56af4693f9710800000000000000
+      internalID: 1702142290029822773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_23
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 71
+        width: 168
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79811eabe4633bca0800000000000000
+      internalID: -6002394166584076137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 154
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c560abc2dc1618880800000000000000
+      internalID: -8610493478709098916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6631e26a26ce080800000000000000
+      internalID: -9156835476473944406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 85
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c634e6f20ed96380800000000000000
+      internalID: -8977400277872920894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1748bfc2b18871cc0800000000000000
+      internalID: -3740371315207732111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d71eb3839fd86e0800000000000000
+      internalID: -1833535453351805612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 38
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691ea04d0ee90bcb0800000000000000
+      internalID: -4850202110210678378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_30
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 42
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85d23756ebf128d0800000000000000
+      internalID: -2872738120561666675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_31
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 29
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711540b53190b10c0800000000000000
+      internalID: -4604076215320162025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_32
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 29
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b128cde6b147000800000000000000
+      internalID: 32681260258302787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 30
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a715d5141a3289e0800000000000000
+      internalID: -1620669057959913568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_34
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 42
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549b3d454dc960f0800000000000000
+      internalID: -1123140934520040360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_35
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 42
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457b38b3e8ee4b860800000000000000
+      internalID: 7544917570403678036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_36
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 69
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf0dc5025359f810800000000000000
+      internalID: 1799561137860972471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848456ce55d9089b0800000000000000
+      internalID: -5079887387310077880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 36
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2c50ac0a36d1410800000000000000
+      internalID: 1449424197318460130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e15c9cc8e35e18e0800000000000000
+      internalID: -1720845748278636058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb106c34bd7eda9e0800000000000000
+      internalID: -1608374562980494916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_41
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 5
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c22fa27a426e360800000000000000
+      internalID: 7198481354796969104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_42
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652e9fb9bc261f0c0800000000000000
+      internalID: -4543741922405391786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_43
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 4
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ea5339a89606d50800000000000000
+      internalID: 6728493887187693094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_44
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 3
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19cf5c0408968e0800000000000000
+      internalID: -1699686368667725355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_45
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 15
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a74ed8bf59f16360800000000000000
+      internalID: 7161279072014583716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_46
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 28
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba60fe296525800800000000000000
+      internalID: 599636889469102959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_47
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 26
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e2260eb67d2120800000000000000
+      internalID: 2390697535722414614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd08ee671f41fa0800000000000000
+      internalID: -5830770124428091518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cc1d3ff43aa34f0800000000000000
+      internalID: -848186016017560443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f0fdbe80aee3df0800000000000000
+      internalID: -198464009519820985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_51
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b986bab48c9bd0420800000000000000
+      internalID: 2597936829976766619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_52
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c646c585a82523dc0800000000000000
+      internalID: -3660772792957377428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_53
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 225
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aa935030d8ceee0800000000000000
+      internalID: -1230453554066904559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_54
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 220
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d453fcc3e9fef0d0800000000000000
+      internalID: -3386995112944642858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 45
+        width: 118
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5ddb779186a5c20800000000000000
+      internalID: 3195981344165189083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_56
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 36
+        width: 118
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdff4296de2baef0800000000000000
+      internalID: -95931467945738812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_zhujiemian 1_57
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 53
+        width: 118
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9ca38f1040eef0800000000000000
+      internalID: -80994289195377239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

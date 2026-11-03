@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2975154bc874e94590a643a9ad090b8, type: 3}
+  m_Name: All_Sword_21
+  m_EditorClassIdentifier: 
+  itemName: "\u9996\u9886\u5F2F\u5200"
+  itemSprite: {fileID: 21300000, guid: 46864c9d86379984f903f56f62ec22f9, type: 3}
+  isNeverDrop: 0
+  basePrice: 20
+  itemQualitys: 03000000
+  itemBaseInfo: 
+  itemExtraInfo: 
+  equipType: 0
+  propertyFactors:
+  - propertyType: 0
+    baseValue: 4
+    growValue: 0.8
+  - propertyType: 2
+    baseValue: 2
+    growValue: 0.6
+  buffInfo: []

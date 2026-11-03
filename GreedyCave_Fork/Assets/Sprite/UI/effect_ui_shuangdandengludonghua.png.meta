@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: d5b25b06b5d20ef469c09e8339a07fb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3059642959010411686
+    second: effect_ui_shuangdandengludonghua_0
+  - first:
+      213: -150664506619356532
+    second: effect_ui_shuangdandengludonghua_1
+  - first:
+      213: 8366301435416442295
+    second: effect_ui_shuangdandengludonghua_3
+  - first:
+      213: -8418422276035676978
+    second: effect_ui_shuangdandengludonghua_4
+  - first:
+      213: -3760208811630876733
+    second: effect_ui_shuangdandengludonghua_5
+  - first:
+      213: -8326885347537843915
+    second: effect_ui_shuangdandengludonghua_7
+  - first:
+      213: -2243659837607014018
+    second: effect_ui_shuangdandengludonghua_9
+  - first:
+      213: 8430568418263085912
+    second: effect_ui_shuangdandengludonghua_10
+  - first:
+      213: 678641762971333902
+    second: effect_ui_shuangdandengludonghua_13
+  - first:
+      213: -1050291246650667943
+    second: effect_ui_shuangdandengludonghua_14
+  - first:
+      213: -5616621261605888200
+    second: effect_ui_shuangdandengludonghua_17
+  - first:
+      213: 8431385945114316973
+    second: effect_ui_shuangdandengludonghua_25
+  - first:
+      213: -2506107093831892696
+    second: effect_ui_shuangdandengludonghua_26
+  - first:
+      213: -4088417334921744058
+    second: effect_ui_shuangdandengludonghua_28
+  - first:
+      213: -5931854465125008278
+    second: effect_ui_shuangdandengludonghua_29
+  - first:
+      213: -3676789143281870974
+    second: effect_ui_shuangdandengludonghua_30
+  - first:
+      213: 1089781966891351595
+    second: effect_ui_shuangdandengludonghua_31
+  - first:
+      213: -7867558078867022898
+    second: effect_ui_shuangdandengludonghua_33
+  - first:
+      213: 309165666851322846
+    second: effect_ui_shuangdandengludonghua_35
+  - first:
+      213: -7651924692640114670
+    second: effect_ui_shuangdandengludonghua_38
+  - first:
+      213: 1139469279399630924
+    second: effect_ui_shuangdandengludonghua_39
+  - first:
+      213: 8602594051367806096
+    second: effect_ui_shuangdandengludonghua_41
+  - first:
+      213: -2536810248213512199
+    second: effect_ui_shuangdandengludonghua_42
+  - first:
+      213: 7953073189817962200
+    second: effect_ui_shuangdandengludonghua_46
+  - first:
+      213: 1238531155102734198
+    second: effect_ui_shuangdandengludonghua_47
+  - first:
+      213: -4359132356706824039
+    second: effect_ui_shuangdandengludonghua_48
+  - first:
+      213: 8631177266716197923
+    second: effect_ui_shuangdandengludonghua_2
+  - first:
+      213: -2493404283649554779
+    second: effect_ui_shuangdandengludonghua_6
+  - first:
+      213: -5764761410918937443
+    second: effect_ui_shuangdandengludonghua_8
+  - first:
+      213: 6576618811116471452
+    second: effect_ui_shuangdandengludonghua_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4375f7f09067a20800000000000000
+      internalID: 3059642959010411686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 502
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a91b2fd6bb8edf0800000000000000
+      internalID: -150664506619356532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b576d534d21b1470800000000000000
+      internalID: 8366301435416442295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 440
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec478abea81cb2b80800000000000000
+      internalID: -8418422276035676978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 503
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7a27d120e01dbc0800000000000000
+      internalID: -3760208811630876733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 246
+        width: 356
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5390a96e4e5f07c80800000000000000
+      internalID: -8326885347537843915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 487
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e719f9ed34becd0e0800000000000000
+      internalID: -2243659837607014018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 487
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853b2313f456ff470800000000000000
+      internalID: 8430568418263085912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 446
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05b6ab76150b6900800000000000000
+      internalID: 678641762971333902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_14
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 440
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c4fa40dad9c61f0800000000000000
+      internalID: -1050291246650667943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_17
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 430
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f131088b0cd02b0800000000000000
+      internalID: -5616621261605888200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 257
+        width: 92
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da092ce78dc420570800000000000000
+      internalID: 8431385945114316973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_26
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 236
+        width: 92
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821401740e4883dd0800000000000000
+      internalID: -2506107093831892696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_28
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 368
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b07268160347c0800000000000000
+      internalID: -4088417334921744058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_29
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 236
+        width: 86
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cb8e2dac1ddada0800000000000000
+      internalID: -5931854465125008278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_30
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 234
+        width: 88
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287dba031cb69fcc0800000000000000
+      internalID: -3676789143281870974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_31
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 359
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e7f2bcceeaf1f00800000000000000
+      internalID: 1089781966891351595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_33
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 296
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb50638c91d0d290800000000000000
+      internalID: -7867558078867022898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 129
+        width: 92
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb7b6539806a4400800000000000000
+      internalID: 309165666851322846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_38
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 234
+        width: 90
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218552f9807eec590800000000000000
+      internalID: -7651924692640114670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_39
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 234
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48d51fb54530df00800000000000000
+      internalID: 1139469279399630924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_41
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 234
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094aaa216bd826770800000000000000
+      internalID: 8602594051367806096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_42
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 118
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffb9a415807bccd0800000000000000
+      internalID: -2536810248213512199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_46
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de48cfcdedfe5e60800000000000000
+      internalID: 7953073189817962200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_47
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67717270685203110800000000000000
+      internalID: 1238531155102734198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_48
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 2
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990149d97304183c0800000000000000
+      internalID: -4359132356706824039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_2
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 434
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324cb008ef918c770800000000000000
+      internalID: 8631177266716197923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_6
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 445
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a681afb306a56dd0800000000000000
+      internalID: -2493404283649554779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_8
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 453
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c0c4f2a047fffa0800000000000000
+      internalID: -5764761410918937443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_ui_shuangdandengludonghua_11
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 452
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94cfbbd6f7d44b50800000000000000
+      internalID: 6576618811116471452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

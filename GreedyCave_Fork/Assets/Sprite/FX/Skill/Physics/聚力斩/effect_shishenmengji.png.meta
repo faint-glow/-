@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 2420d5158a40294409309e4759800c31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4377419594264413758
+    second: effect_shishenmengji_0
+  - first:
+      213: -4320335856289683296
+    second: effect_shishenmengji_1
+  - first:
+      213: 8775889796158791745
+    second: effect_shishenmengji_2
+  - first:
+      213: -5810225181887824208
+    second: effect_shishenmengji_3
+  - first:
+      213: 3454273568814183995
+    second: effect_shishenmengji_4
+  - first:
+      213: -7720977749188151317
+    second: effect_shishenmengji_5
+  - first:
+      213: 4817190704397207341
+    second: effect_shishenmengji_6
+  - first:
+      213: -481414077220070800
+    second: effect_shishenmengji_7
+  - first:
+      213: 3490222013078857441
+    second: effect_shishenmengji_8
+  - first:
+      213: 1678102767203704138
+    second: effect_shishenmengji_9
+  - first:
+      213: 8157090744352582715
+    second: effect_shishenmengji_10
+  - first:
+      213: -2510445530287711592
+    second: effect_shishenmengji_11
+  - first:
+      213: -1876068196094946652
+    second: effect_shishenmengji_12
+  - first:
+      213: -4895587873397922074
+    second: effect_shishenmengji_13
+  - first:
+      213: 8163687906462859826
+    second: effect_shishenmengji_14
+  - first:
+      213: 3779130048746263144
+    second: effect_shishenmengji_15
+  - first:
+      213: 7511047449451532763
+    second: effect_shishenmengji_16
+  - first:
+      213: -9076948148237061992
+    second: effect_shishenmengji_17
+  - first:
+      213: -5163178021982433752
+    second: effect_shishenmengji_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_shishenmengji_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 357
+        width: 83
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f80352184043c0800000000000000
+      internalID: -4377419594264413758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 450
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a86877cd651b04c0800000000000000
+      internalID: -4320335856289683296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 357
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1402500e5493ac970800000000000000
+      internalID: 8775889796158791745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 217
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0befb802bfeed5fa0800000000000000
+      internalID: -5810225181887824208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36b032628b00ff20800000000000000
+      internalID: 3454273568814183995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 77
+        width: 41
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f1f405a399d490800000000000000
+      internalID: -7720977749188151317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 125
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27c8ee4c691ad240800000000000000
+      internalID: 4817190704397207341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 125
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07adc69827ca159f0800000000000000
+      internalID: -481414077220070800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 122
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e660dccd62cf6030800000000000000
+      internalID: 3490222013078857441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 107
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd6c76391d94710800000000000000
+      internalID: 1678102767203704138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 77
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c23c950dec33170800000000000000
+      internalID: 8157090744352582715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89adb33571b192dd0800000000000000
+      internalID: -2510445530287711592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a25a5d5aedd6f5e0800000000000000
+      internalID: -1876068196094946652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6286f54c06f0cb0800000000000000
+      internalID: -4895587873397922074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shishenmengji_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 184
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2320fd9d5ee3b4170800000000000000
+      internalID: 8163687906462859826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

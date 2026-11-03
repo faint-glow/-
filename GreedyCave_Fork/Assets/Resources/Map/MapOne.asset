@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93ee198d281079e49af94cfeb1fca77a, type: 3}
+  m_Name: MapOne
+  m_EditorClassIdentifier: 
+  mapName: "\u8D2A\u6B32\u8FF7\u5BAB"
+  loungeSceneName: Lounge
+  bossSceneName: BossRoom_1
+  roadTile: {fileID: 11400000, guid: 5387e9bbb6a9fad44ad51e886b5086db, type: 2}
+  wallTile: {fileID: 11400000, guid: 991155e7621b2cb47bdaa6d862ce4d77, type: 2}
+  jarPrefab: {fileID: 7620605388057910210, guid: 649bc318719a73243bf96219a17d24fd, type: 3}
+  entryPrefab: {fileID: 6271076349040095489, guid: c9b9b2b35895ac04abb5d40f3844cde5, type: 3}
+  magicCirclePrefab: {fileID: 1589578360241252530, guid: 41ca5297f485a5f4ab120b6c1891a024, type: 3}
+  enemyFirst:
+  - {fileID: 11400000, guid: 565765b526cf17042a3208ce65e7dd73, type: 2}
+  - {fileID: 11400000, guid: 86e6550199d9cdf44add70319925e8f8, type: 2}
+  enemySecond:
+  - {fileID: 11400000, guid: 0de8594e5af35324c84b164779a9db26, type: 2}
+  - {fileID: 11400000, guid: 894469512d6e36e40925a826d1d045d7, type: 2}
+  - {fileID: 11400000, guid: cce42693115835e498bfeb7d47d206f3, type: 2}
+  - {fileID: 11400000, guid: ad7c13a6b041ab04e9e205d496b8a032, type: 2}
+  enemyThird:
+  - {fileID: 11400000, guid: ad7c13a6b041ab04e9e205d496b8a032, type: 2}
+  - {fileID: 11400000, guid: bddbdee52a19a344cbf99fcb3ede8bf7, type: 2}
+  - {fileID: 11400000, guid: 6044918885838e447a994a71ac0b4f67, type: 2}
+  - {fileID: 11400000, guid: f0907d30a22e3f94c8a54d1a2d03c8da, type: 2}
+  loungeSupply:
+  - itemInfo: {fileID: 11400000, guid: 1896735783d02fe4f84dae7eef719901, type: 2}
+    count: 3
+  - itemInfo: {fileID: 11400000, guid: f1c1ec3c942b0714fa5acffedfc7ab90, type: 2}
+    count: 3
+  - itemInfo: {fileID: 11400000, guid: 21abc0f10534ab74697073fd530e396a, type: 2}
+    count: 3

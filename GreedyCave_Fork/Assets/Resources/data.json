@@ -1,0 +1,18 @@
+{
+
+  "manyClass" : [
+    {
+      "PersonName": "小明",
+      "PersonAge": "20",
+      "PersonSalary": "10000",
+      "BagCounts": [ { "count": 1 } ]
+    },
+    {
+      "PersonName": "小红",
+      "PersonAge": "18",
+      "PersonSalary": "2000",
+      "BagCounts": [ { "count": 2 } ]
+    }
+
+  ]
+}

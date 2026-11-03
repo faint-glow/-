@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc137ffc54f6f4446b07884efd08693d, type: 3}
+  m_Name: "3_\u9636\u6BB5\u4E00"
+  m_EditorClassIdentifier: 
+  startTaskState: 0
+  receiveTalkInfo:
+    NPC_Name: "\u5411\u5BFC"
+    sceneName: 
+    targetPos: {x: 0, y: 0, z: 0}
+    talkInfo: {fileID: 11400000, guid: 2ce61466d3c5299418b554f7d734a9da, type: 2}
+  finishTalkInfo:
+    NPC_Name: "\u5411\u5BFC"
+    sceneName: 
+    targetPos: {x: 0, y: 0, z: 0}
+    talkInfo: {fileID: 11400000, guid: 814ff7192b0ffc94fbcedcff7571c671, type: 2}
+  finishConditions:
+    fixedConditions:
+    - condition:
+        isInitial: 1
+        isSpread: 1
+        allControlsHeight: 0
+        serializedPropertyHeightInfos:
+        - serializedPropertyName: conditionType
+          y: 0
+        - serializedPropertyName: condition_Talk
+          y: 0
+        - serializedPropertyName: isOverrideTip
+          y: 0
+        conditionType: 3
+        isOverrideTip: 0
+        conditionTip:
+          content: 
+        condition_Level:
+          level: 0
+          bigOrSmallType: 0
+        condition_Task:
+          taskName: 
+        condition_Beat:
+          targetName: 
+          count: 0
+        condition_Talk:
+          talkInfo_Before:
+            NPC_Name: "\u94C1\u5320"
+            sceneName: 
+            targetPos: {x: 0, y: 0, z: 0}
+            talkInfo: {fileID: 11400000, guid: a5196be5989828f49828c85a17693c54, type: 2}
+          talkInfo_After:
+            NPC_Name: "\u94C1\u5320"
+            sceneName: 
+            targetPos: {x: 0, y: 0, z: 0}
+            talkInfo: {fileID: 11400000, guid: 2aa876310fbbec64f9f92c96e21f53b9, type: 2}
+        condition_Collection:
+          isInitial: 0
+          isSpread: 0
+          allControlsHeight: 0
+          serializedPropertyHeightInfos: []
+          collectionType: 0
+          itemQuality: 0
+          itemCategory: 5
+          equipType: 0
+          itemName: 
+          count: 0
+    replaceableConditions: []
+  booty:
+    bootyRatio: 1
+    reward_Property:
+    - rewardType: 19
+      baseValue: 50
+      fluctuationRatio: 0
+    - rewardType: 16
+      baseValue: 50
+      fluctuationRatio: 0
+    itemList: []

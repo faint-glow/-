@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: c1afea8c8a29f5c46a614c2dfd62b335
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5601074337296039139
+    second: set_tongyong_0
+  - first:
+      213: 6999180000126805934
+    second: set_tongyong_1
+  - first:
+      213: 4026879079338398480
+    second: set_tongyong_2
+  - first:
+      213: -5367436812300386738
+    second: set_tongyong_3
+  - first:
+      213: 1675723613958632820
+    second: set_tongyong_4
+  - first:
+      213: -2469615323759792861
+    second: set_tongyong_5
+  - first:
+      213: 1394449073574342190
+    second: set_tongyong_6
+  - first:
+      213: 432134815159270198
+    second: set_tongyong_7
+  - first:
+      213: -3309816117927907816
+    second: set_tongyong_8
+  - first:
+      213: -6552019771800371684
+    second: set_tongyong_9
+  - first:
+      213: -3600198347045417989
+    second: set_tongyong_10
+  - first:
+      213: 4874676542927499741
+    second: set_tongyong_11
+  - first:
+      213: -8786317393100813631
+    second: set_tongyong_12
+  - first:
+      213: -2128799853137182916
+    second: set_tongyong_13
+  - first:
+      213: -7534325300277287010
+    second: set_tongyong_14
+  - first:
+      213: -1704143125466380097
+    second: set_tongyong_15
+  - first:
+      213: 857828535558319115
+    second: set_tongyong_16
+  - first:
+      213: 2182525415972010682
+    second: set_tongyong_17
+  - first:
+      213: 277929211947135965
+    second: set_tongyong_18
+  - first:
+      213: 1858779408830367152
+    second: set_tongyong_19
+  - first:
+      213: 5652293574630784799
+    second: set_tongyong_20
+  - first:
+      213: 8063853205231971325
+    second: set_tongyong_21
+  - first:
+      213: 4486999788162552510
+    second: set_tongyong_22
+  - first:
+      213: 5466712801381012523
+    second: set_tongyong_23
+  - first:
+      213: 3611079367393141477
+    second: set_tongyong_24
+  - first:
+      213: 1104961504237345160
+    second: set_tongyong_25
+  - first:
+      213: -4505089320606608315
+    second: set_tongyong_26
+  - first:
+      213: -7717657483925776669
+    second: set_tongyong_27
+  - first:
+      213: -743605134229339552
+    second: set_tongyong_28
+  - first:
+      213: 1427193271568568229
+    second: set_tongyong_29
+  - first:
+      213: -3681306914106573250
+    second: set_tongyong_30
+  - first:
+      213: -708076676694742607
+    second: set_tongyong_31
+  - first:
+      213: -4373325006052827145
+    second: set_tongyong_32
+  - first:
+      213: -7533387914447577748
+    second: set_tongyong_33
+  - first:
+      213: -5450252453962803645
+    second: set_tongyong_34
+  - first:
+      213: 7907768864481446987
+    second: set_tongyong_35
+  - first:
+      213: 8600333737020515059
+    second: set_tongyong_36
+  - first:
+      213: -5357745074961252996
+    second: set_tongyong_37
+  - first:
+      213: -8570658207585759139
+    second: set_tongyong_38
+  - first:
+      213: 5739167736121986311
+    second: set_tongyong_39
+  - first:
+      213: -4900646948859616823
+    second: set_tongyong_40
+  - first:
+      213: 4379988352570554696
+    second: set_tongyong_41
+  - first:
+      213: -2719933480664764160
+    second: set_tongyong_42
+  - first:
+      213: -4172552635242235733
+    second: set_tongyong_43
+  - first:
+      213: 1937690827637811904
+    second: set_tongyong_44
+  - first:
+      213: -2947988146041473399
+    second: set_tongyong_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set_tongyong_0
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 7
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec361b1f630bbd40800000000000000
+      internalID: 5601074337296039139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_1
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 139
+        width: 107
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7a39a7025122160800000000000000
+      internalID: 6999180000126805934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_2
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 142
+        width: 106
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013da65ff2952e730800000000000000
+      internalID: 4026879079338398480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 74
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4efa7838a80385b0800000000000000
+      internalID: -5367436812300386738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 74
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475fcbf9fbd514710800000000000000
+      internalID: 1675723613958632820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 74
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32daf6792f92abdd0800000000000000
+      internalID: -2469615323759792861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 74
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e65c75b041a5310800000000000000
+      internalID: 1394449073574342190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_7
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 324
+        width: 195
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb5a823504ff500800000000000000
+      internalID: 432134815159270198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e6b03e6cb2112d0800000000000000
+      internalID: -3309816117927907816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_9
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 81
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eb08c4bbc8215a0800000000000000
+      internalID: -6552019771800371684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_10
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 34
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbc8639da6890ec0800000000000000
+      internalID: -3600198347045417989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 131
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd17f181d7456a340800000000000000
+      internalID: 4874676542927499741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_12
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 142
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac36402eab01680800000000000000
+      internalID: -8786317393100813631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_13
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 74
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fbadbffcbf472e0800000000000000
+      internalID: -2128799853137182916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 55
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97ebb6de03b07790800000000000000
+      internalID: -7534325300277287010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_15
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 22
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb807283bdaa958e0800000000000000
+      internalID: -1704143125466380097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 370
+        width: 671
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ca524128e97eb00800000000000000
+      internalID: 857828535558319115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_17
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 230
+        width: 247
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf5446d43e94e10800000000000000
+      internalID: 2182525415972010682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 42
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd330de45276bd300800000000000000
+      internalID: 277929211947135965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_19
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 83
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5052b2606bbc910800000000000000
+      internalID: 1858779408830367152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_20
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 305
+        width: 367
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f371a1f0bf07e40800000000000000
+      internalID: 5652293574630784799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_21
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 296
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2fba14cf88ef60800000000000000
+      internalID: 8063853205231971325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 17
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb29ea0c886054e30800000000000000
+      internalID: 4486999788162552510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 103
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b245567345aaddb40800000000000000
+      internalID: 5466712801381012523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 66
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2e5356d812d1230800000000000000
+      internalID: 3611079367393141477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 33
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8895c8e32ac955f00800000000000000
+      internalID: 1104961504237345160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 29
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54456d3c125ba71c0800000000000000
+      internalID: -4505089320606608315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_27
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 49
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61874886f55e490800000000000000
+      internalID: -7717657483925776669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_28
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 281
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0628a19f11f2ea5f0800000000000000
+      internalID: -743605134229339552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_29
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 281
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af0ca908b86ec310800000000000000
+      internalID: 1427193271568568229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_30
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 281
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3efc73bdde59ecc0800000000000000
+      internalID: -3681306914106573250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 37
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9eedb93086c26f0800000000000000
+      internalID: -708076676694742607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_32
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 77
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff53eee314de43c0800000000000000
+      internalID: -4373325006052827145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_33
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 32
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d912cfa97047790800000000000000
+      internalID: -7533387914447577748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_34
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 38
+        width: 71
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34698511540dc54b0800000000000000
+      internalID: -5450252453962803645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c8f4592e90ebd60800000000000000
+      internalID: 7907768864481446987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_36
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 62
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26ae0a7f58a5770800000000000000
+      internalID: 8600333737020515059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_37
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 194
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7df5d9ad3775a5b0800000000000000
+      internalID: -5357745074961252996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_38
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 138
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50909df4c7ee0980800000000000000
+      internalID: -8570658207585759139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_39
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 74
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d0fe906ae95af40800000000000000
+      internalID: 5739167736121986311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_40
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 82
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1ee9390976dfbb0800000000000000
+      internalID: -4900646948859616823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_41
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 360
+        width: 368
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849f0535338d8cc30800000000000000
+      internalID: 4379988352570554696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_42
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 152
+        width: 127
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001f84009ead04ad0800000000000000
+      internalID: -2719933480664764160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_43
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 412
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba834c14c7d1816c0800000000000000
+      internalID: -4172552635242235733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_44
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 281
+        width: 223
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 23, z: 24, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca62e99a8f04ea10800000000000000
+      internalID: 1937690827637811904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong_45
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 529
+        width: 419
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b2297664a617d0800000000000000
+      internalID: -2947988146041473399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 80eb4b33fe2632c4bb53257eeea7f086
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5601074337296039139
+    second: set_tongyong_0
+  - first:
+      213: 6999180000126805934
+    second: set_tongyong_1
+  - first:
+      213: 4026879079338398480
+    second: set_tongyong_2
+  - first:
+      213: -5367436812300386738
+    second: set_tongyong_3
+  - first:
+      213: 1675723613958632820
+    second: set_tongyong_4
+  - first:
+      213: -2469615323759792861
+    second: set_tongyong_5
+  - first:
+      213: 1394449073574342190
+    second: set_tongyong_6
+  - first:
+      213: 432134815159270198
+    second: set_tongyong_7
+  - first:
+      213: -3309816117927907816
+    second: set_tongyong_8
+  - first:
+      213: -6552019771800371684
+    second: set_tongyong_9
+  - first:
+      213: -3600198347045417989
+    second: set_tongyong_10
+  - first:
+      213: 4874676542927499741
+    second: set_tongyong_11
+  - first:
+      213: -8786317393100813631
+    second: set_tongyong_12
+  - first:
+      213: -2128799853137182916
+    second: set_tongyong_13
+  - first:
+      213: -7534325300277287010
+    second: set_tongyong_14
+  - first:
+      213: -1704143125466380097
+    second: set_tongyong_15
+  - first:
+      213: 857828535558319115
+    second: set_tongyong_16
+  - first:
+      213: 2182525415972010682
+    second: set_tongyong_17
+  - first:
+      213: 277929211947135965
+    second: set_tongyong_18
+  - first:
+      213: 1858779408830367152
+    second: set_tongyong_19
+  - first:
+      213: 5652293574630784799
+    second: set_tongyong_20
+  - first:
+      213: 8063853205231971325
+    second: set_tongyong_21
+  - first:
+      213: 4486999788162552510
+    second: set_tongyong_22
+  - first:
+      213: 5466712801381012523
+    second: set_tongyong_23
+  - first:
+      213: 3611079367393141477
+    second: set_tongyong_24
+  - first:
+      213: 1104961504237345160
+    second: set_tongyong_25
+  - first:
+      213: -4505089320606608315
+    second: set_tongyong_26
+  - first:
+      213: -7717657483925776669
+    second: set_tongyong_27
+  - first:
+      213: -743605134229339552
+    second: set_tongyong_28
+  - first:
+      213: 1427193271568568229
+    second: set_tongyong_29
+  - first:
+      213: -3681306914106573250
+    second: set_tongyong_30
+  - first:
+      213: -708076676694742607
+    second: set_tongyong_31
+  - first:
+      213: -4373325006052827145
+    second: set_tongyong_32
+  - first:
+      213: -7533387914447577748
+    second: set_tongyong_33
+  - first:
+      213: -5450252453962803645
+    second: set_tongyong_34
+  - first:
+      213: 7907768864481446987
+    second: set_tongyong_35
+  - first:
+      213: 8600333737020515059
+    second: set_tongyong_36
+  - first:
+      213: -5357745074961252996
+    second: set_tongyong_37
+  - first:
+      213: -8570658207585759139
+    second: set_tongyong_38
+  - first:
+      213: 5739167736121986311
+    second: set_tongyong_39
+  - first:
+      213: -4900646948859616823
+    second: set_tongyong_40
+  - first:
+      213: 4379988352570554696
+    second: set_tongyong_41
+  - first:
+      213: -2719933480664764160
+    second: set_tongyong_42
+  - first:
+      213: -4172552635242235733
+    second: set_tongyong_43
+  - first:
+      213: 1937690827637811904
+    second: set_tongyong_44
+  - first:
+      213: -2947988146041473399
+    second: set_tongyong_45
+  - first:
+      213: -213762313738430114
+    second: set_tongyong 1_0
+  - first:
+      213: 4836993917036707061
+    second: set_tongyong 1_1
+  - first:
+      213: -1936597970418290530
+    second: set_tongyong 1_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set_tongyong 1_0
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 139
+        width: 108
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e595147ee40980df0800000000000000
+      internalID: -213762313738430114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong 1_1
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 143
+        width: 108
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcb2bd0754702340800000000000000
+      internalID: 4836993917036707061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set_tongyong 1_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90b97c0862df15e0800000000000000
+      internalID: -1936597970418290530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

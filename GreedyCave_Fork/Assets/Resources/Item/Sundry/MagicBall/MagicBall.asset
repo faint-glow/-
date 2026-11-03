@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8690a30e2a9e23344bba3faf9c77f43b, type: 3}
+  m_Name: MagicBall
+  m_EditorClassIdentifier: 
+  itemName: "\u9B54\u6CD5\u7403"
+  itemSprite: {fileID: -3023456991562314322, guid: a0555979fbb349c4b8c50e9abc99651a, type: 3}
+  isNeverDrop: 1
+  basePrice: 700
+  itemQualitys: 05000000
+  itemBaseInfo: 
+  itemExtraInfo: "\u7EDD\u4E0D\u6389\u843D"
+  itemType: 1
+  containterType: 1
+  capacity: 3

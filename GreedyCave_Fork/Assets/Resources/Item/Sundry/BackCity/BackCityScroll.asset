@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ad8699ef9d53fb4ca01efea721eb92f, type: 3}
+  m_Name: BackCityScroll
+  m_EditorClassIdentifier: 
+  itemName: "\u56DE\u57CE\u5377\u8F74"
+  itemSprite: {fileID: 21300000, guid: b65c4f4ec713c684cb5cf0af2173052a, type: 3}
+  isNeverDrop: 0
+  itemQualitys: 00000000
+  itemBaseInfo: "\u4F60\u8FD8\u60F3\u7EE7\u7EED\u5417\uFF1F"
+  itemExtraInfo: 
+  scrollType: 0
